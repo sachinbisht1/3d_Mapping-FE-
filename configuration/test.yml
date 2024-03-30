@@ -1,0 +1,4 @@
+variables:
+  cloudwatch:
+    LOG_RETENTION_DAYS: 3
+  version:  "test"
