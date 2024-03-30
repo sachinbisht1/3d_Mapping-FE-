@@ -1,0 +1,5 @@
+"""All parameter related to /s3 router."""
+USER_ID = "{user_id}"
+PROJECT_ID = "{project_id}"
+S3_FILE_PATH = "{s3_file:path}"
+LOCAL_FILE_PATH = "{local_file_path:path}"

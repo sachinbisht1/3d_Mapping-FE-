@@ -1,0 +1,5 @@
+"""All Parameter related tp /cloudwatch router."""
+NEXT_TOKEN = "{next_token}"
+SEARCHED_STRING = "{searched_string}"
+START_DATE_TIME = "{start_date_time}"
+END_DATE_TIME = "{end_date_time}"

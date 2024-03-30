@@ -1,0 +1,6 @@
+"""All common Api error messages."""
+THIRD_PARTY_API_FAILED = "Third party API call failed"
+PERMISSION_DENIED = "Not proper permission to perform this action --> {}"
+UNAUTHORIZED_ACCESS = "Unauthorized access of api. Recheck api key. Error --> {}"
+PAGE_NOT_FOUND = "Requested url not found. Error --> {}"
+BASE_URL_NOT_FOUND = "Base url is required"
